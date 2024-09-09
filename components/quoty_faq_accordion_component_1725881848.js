@@ -6,7 +6,7 @@ INSTRUCTION: 2. Accordion container: A div element that holds multiple accordion
 
 <template>
   <section class="py-8 bg-white pl-4">
-    <h2 class="text-lg font-semibold mb-5">PLACEHOLDER_FAQ_TITLE</h2>
+    <h2 class="text-lg font-semibold mb-5">Frequently Asked Questions About Our Baby Development App</h2>
     <!-- Accordion -->
     <div class="space-y-3">
       <!-- Accordion item -->
@@ -73,10 +73,10 @@ export default {
   data() {
     return {
       terms: [
-        { title: "ACCORDION_QUESTION_1", description: "ACCORDION_ANSWER_1", expanded: false },
-        { title: "ACCORDION_QUESTION_2", description: "ACCORDION_ANSWER_2", expanded: false },
-        { title: "ACCORDION_QUESTION_3", description: "ACCORDION_ANSWER_3", expanded: false },
-        { title: "ACCORDION_QUESTION_4", description: "ACCORDION_ANSWER_4", expanded: false }
+        { title: "How does the app track my baby's milestones?", description: "Our app uses age-based guidelines and allows you to input your baby's achievements, creating a personalized timeline of their development. You can also compare your baby's progress with typical developmental milestones.", expanded: false },
+        { title: "Is the app suitable for premature babies?", description: "Yes, our app includes adjusted age calculations for premature babies, ensuring that milestones and advice are tailored to your baby's corrected age and individual developmental pace.", expanded: false },
+        { title: "Can I share my baby's progress with family members?", description: "Absolutely! Our app allows you to securely share updates, photos, and milestone achievements with invited family members, keeping everyone in the loop about your baby's growth and development.", expanded: false },
+        { title: "Does the app provide developmental activities for my baby?", description: "Yes, we offer a wide range of age-appropriate activities and games designed to stimulate your baby's cognitive, physical, and social-emotional development. These activities are updated as your baby grows.", expanded: false }
       ]
     };
   },
