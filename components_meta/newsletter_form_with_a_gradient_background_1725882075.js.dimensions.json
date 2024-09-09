@@ -1,0 +1,18 @@
+{
+    "id": "newsletter_form_with_a_gradient_background-fd9d1c0e-a419-d7f6-8e0d-0e167522ad6d",
+    "name": "newsletter_form_with_a_gradient_background",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 7,
+    "h": 7,
+    "x": "50",
+    "y": "50",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
