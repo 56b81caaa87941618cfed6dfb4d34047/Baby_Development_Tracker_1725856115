@@ -3,10 +3,10 @@
         <div class="relative z-10 max-w-screen-xl mx-auto px-4 md:px-8">
             <div class="max-w-xl sm:text-center md:mx-auto flex items-center flex-col">
                 <h3 class="text-center text-3xl text-white font-semibold sm:text-4xl">
-                    TESTIMONIAL_SECTION_TITLE_PLACEHOLDER_TEXT
+                    Parents Love Our Baby Development App
                 </h3>
                 <p class="mt-3 text-center text-white">
-                    TESTIMONIAL_SECTION_SUBTITLE_PLACEHOLDER_TEXT
+                    See what families are saying about their experience with our app
                 </p>
             </div>
             <div class="mt-12">
@@ -19,7 +19,7 @@
                         <figure>
                             <blockquote>
                                 <p class="text-gray-800 text-lg font-semibold px-4 py-1">
-                                    TESTIMONIAL_1_PLACEHOLDER_TEXT
+                                    This app has been a game-changer for us! It's like having a pediatrician in your pocket. The milestone tracking and personalized tips have really helped us support our baby's development.
                                 </p>
                             </blockquote>
                             <div class="flex items-center gap-x-4 p-4 mt-6 bg-indigo-50">
@@ -27,10 +27,10 @@
                                      class="w-16 h-16 rounded-full border-2 border-indigo-500" />
                                 <div>
                                     <span class="block text-gray-800 font-semibold">
-                                        TESTIMONIAL_GIVER_1_PLACEHOLDER_TEXT
+                                        Sarah M.
                                     </span>
                                     <span class="max-w-full block text-indigo-600 text-xs mt-0.5">
-                                        TESTIMONIAL_GIVER_1_DESCRIPTION_PLACEHOLDER_TEXT
+                                        Mother of 8-month-old twins
                                     </span>
                                 </div>
                             </div>
@@ -44,7 +44,7 @@
                         <figure>
                             <blockquote>
                                 <p class="text-gray-800 text-lg font-semibold px-4 py-1">
-                                    TESTIMONIAL_2_PLACEHOLDER_TEXT
+                                    As a first-time dad, I was pretty clueless about baby development. This app has given me the confidence to actively participate in my child's growth. The activities suggestions are fantastic!
                                 </p>
                             </blockquote>
                             <div class="flex items-center gap-x-4 p-4 mt-6 bg-indigo-50">
@@ -52,10 +52,10 @@
                                      class="w-16 h-16 rounded-full border-2 border-indigo-500" />
                                 <div>
                                     <span class="block text-gray-800 font-semibold">
-                                        TESTIMONIAL_GIVER_2_PLACEHOLDER_TEXT
+                                        Jason T.
                                     </span>
                                     <span class="max-w-full block text-indigo-600 text-xs mt-0.5">
-                                        TESTIMONIAL_GIVER_2_DESCRIPTION_PLACEHOLDER_TEXT
+                                        Father of a 14-month-old
                                     </span>
                                 </div>
                             </div>
@@ -69,7 +69,7 @@
                         <figure>
                             <blockquote>
                                 <p class="text-gray-800 text-lg font-semibold px-4 py-1">
-                                    TESTIMONIAL_3_PLACEHOLDER_TEXT
+                                    I love how this app adapts to my baby's unique development pace. It's reassuring to know what's normal and when to seek professional advice. A must-have for all parents!
                                 </p>
                             </blockquote>
                             <div class="flex items-center gap-x-4 p-4 mt-6 bg-indigo-50">
@@ -77,10 +77,10 @@
                                      class="w-16 h-16 rounded-full border-2 border-indigo-500" />
                                 <div>
                                     <span class="block text-gray-800 font-semibold">
-                                        TESTIMONIAL_GIVER_3_PLACEHOLDER_TEXT
+                                        Emma L.
                                     </span>
                                     <span class="max-w-full block text-indigo-600 text-xs mt-0.5">
-                                        TESTIMONIAL_GIVER_3_DESCRIPTION_PLACEHOLDER_TEXT
+                                        Mother of a 6-month-old
                                     </span>
                                 </div>
                             </div>
