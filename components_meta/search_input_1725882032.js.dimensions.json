@@ -1,0 +1,18 @@
+{
+    "id": "search_input-6211f5a3-fe6a-e016-d062-8869b83a9d0e",
+    "name": "search_input",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 4,
+    "h": 4,
+    "x": "30",
+    "y": "30",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
