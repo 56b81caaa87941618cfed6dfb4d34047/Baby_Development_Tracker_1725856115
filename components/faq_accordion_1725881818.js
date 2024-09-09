@@ -2,8 +2,8 @@
   <div>
     <section class="leading-relaxed max-w-screen-xl mt-12 mx-auto px-4 md:px-8 bg-white">
       <div class="space-y-3 text-center">
-        <h1 class="text-4xl text-gray-800 font-semibold pt-10">FAQ_TITLE_PLACEHOLDER_TEXT</h1>
-        <p class="text-gray-600 max-w-lg mx-auto text-lg">FAQ_SUBTITLE_PLACEHOLDER_TEXT</p>
+        <h1 class="text-4xl text-gray-800 font-semibold pt-10">Frequently Asked Questions</h1>
+        <p class="text-gray-600 max-w-lg mx-auto text-lg">Everything you need to know about our baby development app</p>
       </div>
       <div class="mt-14 max-w-2xl mx-auto">
         <div v-for="(item, index) in faqs" :key="index" class="space-y-5 mt-5 overflow-hidden border-b border-gray-200 hover:bg-gray-50 cursor-pointer" @click="toggleFaq(index)">
@@ -36,11 +36,11 @@ export default {
     return {
       selectedFaq: null,
       faqs: [
-        { q: "FAQ_PLACEHOLDER_QUESTION_TEXT_1", a: "FAQ_PLACEHOLDER_ANSWER_TEXT_1" },
-        { q: "FAQ_PLACEHOLDER_QUESTION_TEXT_2", a: "FAQ_PLACEHOLDER_ANSWER_TEXT_2" },
-        { q: "FAQ_PLACEHOLDER_QUESTION_TEXT_3", a: "FAQ_PLACEHOLDER_ANSWER_TEXT_3" },
-        { q: "FAQ_PLACEHOLDER_QUESTION_TEXT_4", a: "FAQ_PLACEHOLDER_ANSWER_TEXT_4" },
-        { q: "FAQ_PLACEHOLDER_QUESTION_TEXT_5", a: "FAQ_PLACEHOLDER_ANSWER_TEXT_5" }
+        { q: "What age range does the app cover?", a: "Our app covers baby development from birth to 36 months, providing tailored information and activities for each stage of your little one's growth." },
+        { q: "How often is the app content updated?", a: "We update our app content regularly, typically on a monthly basis, to ensure you have access to the latest developmental research and activities for your baby." },
+        { q: "Can I track my baby's milestones in the app?", a: "Yes! Our app features a comprehensive milestone tracker where you can record and celebrate your baby's developmental achievements across various categories." },
+        { q: "Is the information in the app based on scientific research?", a: "Absolutely. All content in our app is curated by child development experts and based on the latest peer-reviewed scientific research in early childhood development." },
+        { q: "Can I use the app for multiple children?", a: "Yes, you can create separate profiles for multiple children within the app, allowing you to track and support the development of each child individually." }
       ]
     }
   },
