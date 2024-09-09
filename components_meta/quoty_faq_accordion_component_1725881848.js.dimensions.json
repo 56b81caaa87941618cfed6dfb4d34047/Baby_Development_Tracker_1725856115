@@ -1,0 +1,18 @@
+{
+    "id": "quoty_faq_accordion_component-94171d1c-d63d-ea71-2f74-c8e79983f406",
+    "name": "quoty_faq_accordion_component",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 7,
+    "h": 7,
+    "x": "50",
+    "y": "50",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
